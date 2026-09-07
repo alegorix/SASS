@@ -1,10 +1,10 @@
-# 🚀 Cours Complet HTML/CSS & Sass (SCSS)
+# Cours Complet HTML/CSS & Sass (SCSS)
 
 Bienvenue dans ce cours complet dédié à **Sass** (Syntactically Awesome Style Sheets), le préprocesseur CSS le plus populaire. Ce guide vous expliquera comment écrire du CSS plus propre, modulaire et maintenable.
 
 ---
 
-## 📚 Table des matières
+## Table des matières
 1. [Introduction à Sass](#1-introduction-à-sass)
 2. [Sass vs SCSS](#2-sass-vs-scss)
 3. [Installation & Configuration](#3-installation--configuration)
